@@ -1,0 +1,2 @@
+# extMIUI
+Useful tweaks and fixes for MIUI7/8
